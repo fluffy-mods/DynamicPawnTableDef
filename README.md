@@ -58,7 +58,7 @@ public class MainTabWindow_Example : MainTabWindow_PawnTable
             // pawngetter selects the pawns you want to show
             var pawngetter = () => Pawns
             
-            // width and height of the pawntable
+            // max width and height of the pawntable
             int width = 500, height = 200;
             
             // rebuild the table. This also recalculates column widths, etc.
