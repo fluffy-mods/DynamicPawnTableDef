@@ -14,9 +14,9 @@ namespace DynamicPawnTable
             ? new List<PawnColumnDef>()
             : new List<PawnColumnDef>( intColumns );
 
-        public void Select( Func<PawnColumnDef, bool> validator )
+        public void Select( Func<PawnColumnDef, bool> predicate )
         {
-            columns = intColumns.Where( validator ).ToList();
+            columns = intColumns.Where( predicate ).ToList();
         }
 
         public override void PostLoad()

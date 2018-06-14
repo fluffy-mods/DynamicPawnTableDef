@@ -8,3 +8,12 @@ D:\NextCloud\Other\RW_Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Deb
 D:\NextCloud\Other\RW_Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\UnityEngine.UI.dll
 D:\NextCloud\Other\RW_Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.csprojResolveAssemblyReference.cache
 D:\NextCloud\Other\RW_Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\DynamicPawnTable.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\UnityEngine.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\TextMeshPro-1.0.55.56.0b11.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\NAudio.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\NVorbis.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\UnityEngine.UI.dll
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.csprojResolveAssemblyReference.cache
+D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.dll
