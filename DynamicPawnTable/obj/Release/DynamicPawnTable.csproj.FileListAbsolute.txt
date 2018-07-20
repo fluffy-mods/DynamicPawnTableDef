@@ -1,0 +1,3 @@
+d:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.csprojResolveAssemblyReference.cache
+d:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Release\DynamicPawnTable.dll
+d:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.dll
