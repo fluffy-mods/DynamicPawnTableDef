@@ -11,3 +11,7 @@ D:\NextCloud\Other\RW_Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Deb
 D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Debug\DynamicPawnTable.dll
 D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.dll
 D:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.csprojResolveAssemblyReference.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\bin\Debug\DynamicPawnTable.dll
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.csprojAssemblyReference.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.csproj.CoreCompileInputs.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\obj\Debug\DynamicPawnTable.dll

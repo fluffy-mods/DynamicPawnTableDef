@@ -1,3 +1,7 @@
 d:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.csprojResolveAssemblyReference.cache
 d:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\bin\Release\DynamicPawnTable.dll
 d:\Dropbox\Mods\Fluffy Mods\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.dll
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\bin\Release\DynamicPawnTable.dll
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.csprojAssemblyReference.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.csproj.CoreCompileInputs.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\DynamicPawnTable\DynamicPawnTable\obj\Release\DynamicPawnTable.dll
